@@ -20,7 +20,7 @@ export default () => {
   <div className="container h-100">
       <div className="row h-100 align-items-center justify-content-center text-center">
           <div className="col-lg-10 align-self-end">
-              <h1 className="text-uppercase text-white font-weight-bold">Psychotherapeutin in Ausbildung unter Supervision</h1>
+              <h1 className="text-uppercase text-white font-weight-bold">Psychotherapeutin in Ausbildung</h1>
               <hr className="divider my-4" />
           </div>
           <div className="col-lg-8 align-self-baseline">
